@@ -9,8 +9,8 @@
 - <b>Quantum Computing</b>
   - Studying Quantum computing Algorithms (password cracking using IBM Cloud Qubit service)
 - <b>Python</b>
-  - [Web image scrapper for AI training purposes](https://github.com/joshmadakor1/Sentinel-Lab)<b><i>(Still not finished)</b></i>
-  - [Learning Malware development](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [User Authentication and Token Authentication with FastAPI](https://github.com/Rjibaraoko/User-Authentication-Token-Authentication)<b><i>(Still not finished)</b></i>
+  - [Learning Malware development by creating a Chrome extension with a keylogger in JS and PHP (php being the backend)](https://github.com/Rjibaraoko/Chrome-Extension-Keylogger-JS-PHP-/blob/main/README.md)
 - <b>Capture The Flags (Network/Web/OSINT assessments)</b>
   - TryHackMe
   - Rootme
