@@ -10,6 +10,7 @@
   - Studying Quantum computing Algorithms (password cracking using IBM Cloud Qubit service)
 - <b>Python</b>
   - [User Authentication and Token Authentication with FastAPI](https://github.com/Rjibaraoko/User-Authentication-Token-Authentication)<b><i>(Still not finished)</b></i>
+  - [Caesar Cipher encryption/decryption script](https://github.com/Rjibaraoko/Caesar-encrypt-decrypt-project)
 - <b>Javascript</b>
   - [Learning Malware development](https://github.com/Rjibaraoko/Chrome-Extension-Keylogger-JS-PHP-) creating a Chrome extension with a keylogger in JS and PHP (php being the backend)
 - <b>C#</b>
