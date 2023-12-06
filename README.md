@@ -1,4 +1,4 @@
-<h1>Hi, I'm Roger Junior! <br/><a href="https://github.com/Rjibaraoko">Jr. Pentester</a>, <a href=https://www.linkedin.com/in/roger-junior-ibara-oko-23569b25a/>Cybersecurity Enthousiast, </a><a>Script programmer</a>
+<h1>Hi, I'm Roger Junior! <br/><a href="https://github.com/Rjibaraoko">Jr. Pentester</a>, <a href=https://www.linkedin.com/in/roger-junior-ibara-oko-23569b25a/>Cybersecurity Enthousiast </a><a>,Script programmer</a>
 
 <h2>👨‍💻 Coding/Cybersecurity Projects (learning subjects also mentioned):</h2>
 
