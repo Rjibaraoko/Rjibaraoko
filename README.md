@@ -5,11 +5,11 @@
 - <b>REST API Practice (FASTAPI in Python)</b>
   - [Praciting understanding and structure of REST API's](https://github.com/Rjibaraoko/REST-API-with-FastAPI)
 - <b>Resume Website(HTML, CSS, Javascript)</b>
-  - [Made Resume into website for a more direct and stylish introduction of my profile](https://github.com/Rjibaraoko/Website-resume-project) <b><i>(Nearly done)</b></i>
+  - [Made Resume into website for a more direct and stylish introduction of my profile](https://github.com/Rjibaraoko/Website-resume-project) <b><i>(Finished. Putting website online soon)</b></i>
 - <b>Quantum Computing</b>
   - Studying Quantum computing Algorithms (password cracking using IBM Cloud Qubit service)
 - <b>Python</b>
-  - [User Authentication and Token Authentication with FastAPI](https://github.com/Rjibaraoko/User-Authentication-Token-Authentication)<b><i>(Still not finished)</b></i>
+  - [User Authentication and Token Authentication with FastAPI](https://github.com/Rjibaraoko/User-Authentication-Token-Authentication)<b><i>(Fixing final bugs)</b></i>
   - [Caesar Cipher encryption/decryption script](https://github.com/Rjibaraoko/Caesar-encrypt-decrypt-project)
 - <b>Javascript</b>
   - [Learning Malware development](https://github.com/Rjibaraoko/Chrome-Extension-Keylogger-JS-PHP-) creating a Chrome extension with a keylogger in JS and PHP (php being the backend)
