@@ -13,6 +13,8 @@
   - [Caesar Cipher encryption/decryption script](https://github.com/Rjibaraoko/Caesar-encrypt-decrypt-project)
 - <b>Javascript</b>
   - [Learning Malware development](https://github.com/Rjibaraoko/Chrome-Extension-Keylogger-JS-PHP-) creating a Chrome extension with a keylogger in JS and PHP (php being the backend)
+- <b>Bash</b>
+  - [Recon script that will automatically use tools to enumerate a target for a web pentesting assessment](https://github.com/Rjibaraoko/Recon-Script-Bash).
 - <b>C#</b>
   - [Music player project for College in C#](https://github.com/Rjibaraoko/IIP-IbaraOkoRogerJunior-2021/tree/main/SlnProjectMusicPlayer).
 - <b>Capture The Flags (Network/Web/OSINT assessments)</b>
